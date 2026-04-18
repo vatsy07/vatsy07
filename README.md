@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 About Me:
+
 Strengthening my problem-solving skills through Data Structures & Algorithms, while building projects in C/C++.<br>Recently developed projects like a Ping Pong Game, Space Chasers Game, and a Car Development Game, focusing on logic design and efficient implementation.<br><br>C/C++ based projects (beginner to intermediate level)<br>Game development projects<br>DSA-focused problem solving and challenges<br><br>Advancing in Data Structures & Algorithms (graphs, dynamic programming, optimization)<br>Building real-world projects that align with industry standards<br>Guidance on improving overall software development practices<br><br>C/C++ programming and logic building<br>Game development from basic to intermediate level<br>My projects: Ping Pong Game, Space Chasers, and Car Development Game<br>My journey solving 70+ DSA problems on LeetCode<br>Debugging approaches and problem-solving mindset<br><br>I enjoy experimenting with different approaches to solve problems — sometimes unconventional, but always focused on making it work efficiently.
 
 
